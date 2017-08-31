@@ -1,0 +1,15 @@
+{
+    "name": "metooweb/helper",
+    "authors": [
+        {
+            "name": "metooweb",
+            "email": "2947550545@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	 "psr-4": {
+            "metooweb\\helper\\": "src/"
+        }
+    }
+}
